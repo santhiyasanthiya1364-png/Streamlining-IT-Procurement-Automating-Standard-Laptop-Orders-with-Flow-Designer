@@ -1,0 +1,25 @@
+FLOW DESIGNER - STANDARD LAPTOP ORDER
+
+Trigger:
+When a new standard laptop request is submitted.
+
+Step 1 - Validate Request:
+Check employee name, department, laptop model and quantity.
+
+Step 2 - Check Standard Model:
+Verify that the selected laptop belongs to the standard laptop catalog.
+
+Step 3 - Approval:
+Send the request for manager/procurement approval.
+
+Step 4 - Approved:
+If approved, update the request status to "Order Ready".
+
+Step 5 - Rejected:
+If rejected, update the request status to "Rejected".
+
+Step 6 - Notification:
+Notify the requester about the final status.
+
+End:
+The laptop procurement request is completed.

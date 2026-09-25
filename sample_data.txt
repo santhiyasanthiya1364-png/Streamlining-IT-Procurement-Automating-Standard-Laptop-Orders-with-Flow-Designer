@@ -1,0 +1,15 @@
+SAMPLE LAPTOP REQUEST
+
+Employee Name : Santhiya
+Department    : IT
+Laptop Model  : Developer Laptop
+Quantity      : 1
+
+Flow Status:
+Request Submitted
+        ↓
+Validation
+        ↓
+Approval
+        ↓
+Order Ready
